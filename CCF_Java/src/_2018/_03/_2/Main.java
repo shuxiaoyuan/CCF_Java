@@ -8,6 +8,7 @@ class Ball {
     public int direction;  // 方向
 }
 
+// 碰撞的小球
 public class Main {
     
     public static void main(String[] args) {
