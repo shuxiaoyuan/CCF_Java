@@ -24,5 +24,6 @@ public class Main {
                 sum += centerTimes * 2;
             }
         }
+        sc.close();
     }
 }

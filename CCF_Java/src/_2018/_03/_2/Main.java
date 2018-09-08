@@ -67,7 +67,7 @@ public class Main {
             System.out.print(balls[i].pos);
         }
         System.out.println();
-        
+        sc.close();
     }
 
 }
